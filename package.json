@@ -14,7 +14,7 @@
     "react-native",
     "zoom.us"
   ],
-  "author": "mieszko4",
+  "author": "itsCb",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0",
